@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>text</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="index.html" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Mobile-Portrait" sketch:type="MSArtboardGroup" transform="translate(-196.000000, -906.000000)">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(-27.000000, -147.000000)">
+                <g id="text" transform="translate(223.000000, 1053.000000)" sketch:type="MSShapeGroup">
+                    <path d="M50.06466,60.7021685 C67.2841142,57.260915 80,45.1971868 80,30.8433735 C80,13.8090487 62.09139,0 40,0 C17.90861,0 0,13.8090487 0,30.8433735 C0,46.9471705 16.0054764,60.1684389 36.4193479,61.5648508 L30.3584585,79.9641049 L50.06466,60.7021685 Z" id="Oval-15" fill="#FFFFFF"></path>
+                    <circle id="Oval-16" fill="#B60050" cx="21" cy="30" r="5"></circle>
+                    <circle id="Oval-16-Copy" fill="#B60050" cx="40" cy="30" r="5"></circle>
+                    <circle id="Oval-16-Copy-2" fill="#B60050" cx="59" cy="30" r="5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

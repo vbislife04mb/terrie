@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="84px" height="81px" viewBox="0 0 84 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>litter box</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="index.html" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Mobile-Portrait" sketch:type="MSArtboardGroup" transform="translate(-38.000000, -579.000000)">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(-27.000000, -147.000000)">
+                <g id="litter-box" transform="translate(67.000000, 726.283951)" sketch:type="MSShapeGroup">
+                    <path d="M4,0.236686391 L76,0.236686391 L70.0360224,44.802673 C69.6912544,47.3789613 67.3008609,49.4674556 64.6974239,49.4674556 L15.3025761,49.4674556 C12.6989176,49.4674556 10.3093551,47.3835158 9.96397761,44.802673 L4,0.236686391 Z" id="Rectangle-16" fill="#FFFFFF" transform="translate(40.000000, 24.852071) rotate(-180.000000) translate(-40.000000, -24.852071) "></path>
+                    <rect id="Rectangle-10" fill="#FFFFFF" x="4" y="51.1242604" width="72" height="28.8757396"></rect>
+                    <rect id="Rectangle-11" stroke="#B60050" stroke-width="1.88235294" fill="#FFFFFF" x="0" y="51.1242604" width="80" height="3.78698225" rx="4.23529412"></rect>
+                    <path d="M19.153502,16.904992 C18.8412952,14.3248024 20.6972205,12.2331454 23.2935673,12.2331454 L56.7063655,12.2331454 C59.3050671,12.2331454 61.1587224,14.3241007 60.8464307,16.904992 L57.2711491,46.4524138 C56.9589423,49.0326034 54.5904457,51.1242604 52.007277,51.1242604 L27.9926558,51.1242604 C25.3977063,51.1242604 23.0410753,49.0333051 22.7287837,46.4524138 L19.153502,16.904992 Z" id="Rectangle-17" fill="#B60050" transform="translate(39.999983, 31.678703) rotate(-180.000000) translate(-39.999983, -31.678703) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

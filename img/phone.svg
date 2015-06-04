@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="31px" height="30px" viewBox="0 0 31 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>phone</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="index.html" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Mobile-Portrait" sketch:type="MSArtboardGroup" transform="translate(-37.000000, -2467.000000)" fill="#FFFFFF">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(-27.000000, -147.000000)">
+                <path d="M64.5,2619.00444 C64.5,2616.24056 66.7303666,2614 69.5044356,2614 L89.4955644,2614 C92.2594379,2614 94.5,2616.23037 94.5,2619.00444 L94.5,2638.99556 C94.5,2641.75944 92.2696334,2644 89.4955644,2644 L69.5044356,2644 C66.7405621,2644 64.5,2641.76963 64.5,2638.99556 L64.5,2619.00444 Z M81.3863799,2630.30046 C80.0722904,2632.7719 78.4336072,2635.25135 77.3025454,2634.64975 C75.6827729,2633.7887 74.5876612,2632.94214 72.525217,2635.97569 C70.4628261,2639.01028 73.0109508,2639.83297 74.580059,2640.66768 C76.3905668,2641.63015 81.1580605,2638.73632 84.7055081,2632.06567 C88.251873,2625.39405 87.9859717,2619.82312 86.1742884,2618.86023 C84.6050142,2618.02583 82.4982923,2616.3741 81.136814,2619.78077 C79.774492,2623.18638 81.0882965,2623.62126 82.7083811,2624.48248 C83.8392039,2625.08415 82.7003963,2627.82878 81.3863799,2630.30046 Z" id="phone" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

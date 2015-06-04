@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="31px" height="31px" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>email</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="index.html" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Mobile-Portrait" sketch:type="MSArtboardGroup" transform="translate(-37.000000, -2507.000000)" fill="#FFFFFF">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(-27.000000, -147.000000)">
+                <path d="M64.5,2659.61528 C64.5,2656.8514 66.7303666,2654.61084 69.5044356,2654.61084 L89.4955644,2654.61084 C92.2594379,2654.61084 94.5,2656.84121 94.5,2659.61528 L94.5,2679.6064 C94.5,2682.37028 92.2696334,2684.61084 89.4955644,2684.61084 L69.5044356,2684.61084 C66.7405621,2684.61084 64.5,2682.38047 64.5,2679.6064 L64.5,2659.61528 Z M68.5,2660.61084 L90.5,2660.61084 L90.5,2662.03614 L79.5,2670.61084 L68.5,2662.03614 L68.5,2660.61084 Z M79.5,2673.27306 L90.5,2664.61084 L90.5,2678.61084 L68.5,2678.61084 L68.5,2664.61084 L79.5,2673.27306 Z" id="email" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -21,38 +21,58 @@ h1,h2,h3,h4 {
 }
 h1 {
 	font-size: 6em;
-	padding-top: 250px;
+	padding-top: 35px;
 }
 h2 {
 	font-size: 3em;
 	padding-top: 30px;
 }
+h3 {
+	font-size: 3em;
+}
 
 img {
 	width: 100%;
 }
-
+li {
+	text-decoration: none;
+}
 /* Main Layout Styles
 ================================ */
-nav {
-	height: 70px;
-	background-color: hotpink;
+
+.section {
+	padding-top: 20px;
+	padding-bottom: 40px;
 }
-nav img {
-	width: 60px;
+.nav {
+	width: 50px;
 	margin-right: 30px;
-	margin-top: 10px;
+	margin-top: 20px;
 	float: right;
 }
+
 .header {
-	height: 500px;
-	background-color: grey;
+	height: 700px;
+	background-image: url(../img/headerbg.jpg);
+	-webkit-background-size: cover;
+}
+h1:after {
+    content: " ";
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+    border-bottom: 3px solid #fff;
+  }
+.logo {
+	width: 20%;
+	margin-top: 80px;
 }
 .services {
 	
 	/*display: inline-flex;
 	-webkit-display: inline-flex;*/
 	background-color: #B60050;
+	padding-bottom: 40px;
 	/*flex-direction: row;
 	-webkit-flex-direction: row;*/
 }
@@ -60,11 +80,9 @@ nav img {
 	
 }
 .services li{
-	text-decoration: none;
+	/*text-decoration: none;*/
 	display: inline-block;
-	padding-right: 40px;
-	padding-bottom: 40px;
-	
+	padding-right: 40px;	
 	/*display: flex;
 	justify-content: space-between;
 	-webkit-justify-content: space-between;*/
@@ -75,7 +93,22 @@ nav img {
 .about-me {
 	background-color: #4A4A4A;
 }
-
+.about-me img {
+	width: 40%;
+	border-radius: 20px;
+}
+.featured-pets {
+	background-color: #ED2C74;
+}
+.reviews {
+	background-color: grey;
+}
+.payment {
+	background-color: #F06E9A;
+}
+.contact {
+	background-color: grey;
+}
 
 @media (min-width: 768px) { 
 

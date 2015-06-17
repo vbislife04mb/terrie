@@ -28,14 +28,17 @@ h2 {
 	padding-top: 30px;
 }
 h3 {
-	font-size: 3em;
+	font-size: 2em;
 }
-
+h4, p {
+	font-size: 1.5em;
+}
 img {
 	width: 100%;
 }
 li {
 	text-decoration: none;
+	list-style: none;
 }
 /* Main Layout Styles
 ================================ */
@@ -76,9 +79,6 @@ h1:after {
 	/*flex-direction: row;
 	-webkit-flex-direction: row;*/
 }
-.services ul {
-	
-}
 .services li{
 	/*text-decoration: none;*/
 	display: inline-block;
@@ -100,10 +100,24 @@ h1:after {
 .featured-pets {
 	background-color: #ED2C74;
 }
+.featured-pets li {
+	display: inline-block;
+	padding-right: 40px;
+}
+.featured-pets img {
+	border-radius: 20px;
+}
 .reviews {
 	background-color: grey;
 }
-.payment {
+.reviews li {
+	display: inline-block;
+	padding-right: 40px;
+}
+.reviews img {
+	border-radius: 20px;
+}
+.rates {
 	background-color: #F06E9A;
 }
 .contact {

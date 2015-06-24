@@ -138,20 +138,21 @@ li {
     padding-top: 20px; }
   .rates ul {
     display: flex;
+    flex-direction: row;
     justify-content: center; }
   .rates li {
     background-color: grey;
     border-radius: 20px;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     margin: 20px 5px 40px 5px; }
   .rates p {
-    font-size: .9em;
-    text-align: center; }
+    font-size: .9em; }
   .rates h4 {
     font-size: 1.125em;
     max-width: 650px;
-    text-align: justify; }
+    align-self: center; }
 
 /*..........Contact..................*/
 .contact {

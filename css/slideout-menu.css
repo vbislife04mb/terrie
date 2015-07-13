@@ -1,30 +1,32 @@
 @media (min-width: 1px) and (max-width: 767px)  {
 
-	.slideout-menu {
-		position: fixed;
-		top: 0;
-		left: -250px;
-		width: 250px;
-		height: 100%;
-		background-color: white;
-		z-index: 100;
-	}
-	.slideout-menu ul {
-		list-style: none;
-		font-family: 'Open Sans Condensed', sans-serif;
-		font-size: 1.75em;
-	}
-	.slideout-menu li {
-		text-decoration: none;
-	}
-	.slideout-menu a {
-		position: relative;
-		display: block;
-		padding: 10px;
-		color: #B60050;
-		text-decoration: none;
-	}
-
+.slideout-menu {
+	position: fixed;
+	top: 0;
+	left: -250px;
+	width: 250px;
+	height: 100%;
+	background-color: white;
+	z-index: 100;
+}
+.slideout-menu ul {
+	list-style: none;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 1.75em;
+}
+.slideout-menu li {
+	text-decoration: none;
+}
+.slideout-menu a {
+	position: relative;
+	display: block;
+	padding: 10px;
+	color: #B60050;
+	text-decoration: none;
+}
+.slideout-menu a:hover {
+	color: #ED2C74;
+}
 .nav-bar-logo {
 	width: auto;
 	height: 55px;
@@ -32,7 +34,16 @@
 	top: 2px;
 	left: 20px;
 }
+.close-menu {
+	color: #B60050;
 
+}	
+.slideout-menu-open {
+	left: 0px;
+}
+.slideout-menu-close {
+	left: -250px;
+}
 
 /* Icon 3 */
 #nav-icon3 {
